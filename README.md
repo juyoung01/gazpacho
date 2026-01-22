@@ -6,3 +6,6 @@ Recipe for gazpacho
 * Peppers
 * Cucumbers
 * Onions
+
+##directions
+chop it and mix it
